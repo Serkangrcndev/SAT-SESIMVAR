@@ -1,2 +1,3 @@
 # SAT-SESIMVAR
-<img width="1536" height="1024" alt="b05aa32f-659c-4e65-99f9-31c8c5fbdad8" src="https://github.com/user-attachments/assets/4c72a6c1-b0eb-43d8-8ec7-ea830ad3c843" />
+<img width="1536" height="1024" alt="sesim var" src="https://github.com/user-attachments/assets/983c698e-093e-41b3-8817-f95311e55823" />
+<img width="1024" height="1536" alt="sesim var mobil" src="https://github.com/user-attachments/assets/19064729-d0af-48eb-a441-371fa7f8c242" />
