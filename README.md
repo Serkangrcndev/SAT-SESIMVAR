@@ -1,3 +1,5 @@
-# SAT-SESIMVAR
+# SAT-SESIMVAR V1.
+
+Bu uygulamada olacak şeyler şunlardır; Yapay zeka sesli yanıt sistemine entegre bir sistem imdat,yardım edin gibi kelimeler ile tetiklendiğinde acil durum olduğunu algılayıp gerekli işlemi yapacaktır , telefon içerisinde x ve y eksninindeki hareket sensörleri sayesinde kullanıcı sarsılırsa , bir anda ani hareketler uygulanırsa veya koşmaya başlarsa uzun süre bunu algılayacak ve yine gerekli işlemi yapacaktır ayrıca acil durum kişileri seçilebilecek bu kişilere acil durumda sağlık bilgileri(kan grubu , kronik rahatsızlık) anlık konumu ve son 10 dakikaya ait ses kaydını gönderecektir. Maps sistemi üzerinden güvenli alan belirlenebilecektir alanın dışına çıktığında uyarı bildirimi gönderecektir, sesli yanıt sistemine istenilen bir kelime tetikleyici olarak eklenebilir.Ayrıca kullanıcının herhangi bir mobil verisi olmadan da iletişime geçilebilecek konum bilgisi vs.Pil seviyesi belirli bir yüzdenin altına düştüğünde yakın kişilere bildirim gidecektir.
 <img width="1536" height="1024" alt="sesim var" src="https://github.com/user-attachments/assets/983c698e-093e-41b3-8817-f95311e55823" />
-<img width="1024" height="1536" alt="sesim var mobil" src="https://github.com/user-attachments/assets/19064729-d0af-48eb-a441-371fa7f8c242" />
+
